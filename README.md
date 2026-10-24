@@ -1,6 +1,12 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1A102B,50:5B21B6,100:8B5CF6&text=PALLAVI%20MAHAJAN&fontColor=FFFFFF&fontSize=36&fontAlignY=45&desc=CLOUD%20%7C%20DEVSECOPS%20%7C%20CYBERSECURITY&descAlignY=72&descSize=14" width="100%" alt="Purple Cloud and DevSecOps banner"/>
+
+</div>
+
+<div align="center">
+
 # 🛡️ Pallavi Mahajan
 
 ### Cloud • DevSecOps • Cybersecurity
