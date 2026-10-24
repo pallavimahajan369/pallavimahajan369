@@ -25,13 +25,7 @@ Cloud & DevSecOps enthusiast focused on secure cloud-native applications, CI/CD 
 
 ### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-7C3AED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-6D28D9?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-8B5CF6?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+
 
 
 **☁️ Cloud & Infrastructure**
