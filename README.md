@@ -50,7 +50,7 @@ Cloud & DevSecOps enthusiast focused on secure cloud-native applications, CI/CD 
 - Chrome extension focused on phishing detection, suspicious scripts, and privacy-aware scanning.
 - Built with JavaScript and Chrome Extension APIs.
 
-#### ☁️ CipherWatch Lite — DevSecOps Platform
+#### ☁️ [CipherWatch  — DevSecOps Platform](https://github.com/pallavimahajan369/cipher-watch)
 - Container security scanning, CI/CD automation, GitOps deployment, and Kubernetes monitoring.
 - Technologies: Docker, Kubernetes, GitHub Actions, Argo CD, Trivy, Prometheus, Grafana, Falco.
  
