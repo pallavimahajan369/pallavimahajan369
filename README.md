@@ -41,10 +41,19 @@ Cloud & DevSecOps enthusiast focused on secure cloud-native applications, CI/CD 
 ![Git](https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=F05032)
 
 
+
+
+
 ### 🚀 Featured Projects
 
-- 🛡️ **[TreatLens](https://github.com/pallavimahajan369/ThreatLens_MadDoG)** — Privacy-focused browser security extension.
-- ⚙️ **[CipherWatch](https://github.com/pallavimahajan369/cipher-watch)** — DevSecOps, container security, Kubernetes and GitOps project. 
+#### 🛡️ [TreatLens — Browser Security Extension](https://github.com/pallavimahajan369/ThreatLens_MadDoG)
+- Chrome extension focused on phishing detection, suspicious scripts, and privacy-aware scanning.
+- Built with JavaScript and Chrome Extension APIs.
+
+#### ☁️ CipherWatch Lite — DevSecOps Platform
+- Container security scanning, CI/CD automation, GitOps deployment, and Kubernetes monitoring.
+- Technologies: Docker, Kubernetes, GitHub Actions, Argo CD, Trivy, Prometheus, Grafana, Falco.
+ 
 
 ---
 
