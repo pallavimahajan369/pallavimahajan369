@@ -30,7 +30,7 @@ Cloud & DevSecOps enthusiast focused on secure cloud-native applications, CI/CD 
 ### 🚀 Featured Projects
 
 - 🛡️ **[TreatLens](https://github.com/pallavimahajan369/ThreatLens_MadDoG)** — Privacy-focused browser security extension.
-- ⚙️ **CipherWatch Lite** — DevSecOps, container security, Kubernetes and GitOps project. *(Add the actual repository link.)*
+- ⚙️ **[CipherWatch](https://github.com/pallavimahajan369/cipher-watch)** — DevSecOps, container security, Kubernetes and GitOps project. 
 
 ---
 
