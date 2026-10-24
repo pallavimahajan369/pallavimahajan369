@@ -19,8 +19,6 @@ Cloud & DevSecOps enthusiast focused on secure cloud-native applications, CI/CD 
 
 ### 🧰 Tech Stack
 
-### 🧰 Tech Stack
-
 **☁️ Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
