@@ -19,13 +19,29 @@ Cloud & DevSecOps enthusiast focused on secure cloud-native applications, CI/CD 
 
 ### 🧰 Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-Security-39FF88?style=flat-square)
-![Falco](https://img.shields.io/badge/Falco-Runtime_Security-00AEC7?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### 🧰 Tech Stack
+
+**☁️ Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Terraform](https://img.shields.io/badge/Terraform-232F3E?style=for-the-badge&logo=terraform&logoColor=844FBA)
+
+**🐳 DevOps & GitOps**
+
+![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-232F3E?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-232F3E?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Argo CD](https://img.shields.io/badge/Argo_CD-232F3E?style=for-the-badge&logo=argo&logoColor=EF7B4D)
+
+**🛡️ Security & Monitoring**
+
+![Trivy](https://img.shields.io/badge/Trivy-232F3E?style=for-the-badge&logo=aqua&logoColor=7C4DFF)
+![Prometheus](https://img.shields.io/badge/Prometheus-232F3E?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-232F3E?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=F05032)
+
 
 ### 🚀 Featured Projects
 
