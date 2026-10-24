@@ -42,6 +42,7 @@ Cloud & DevSecOps enthusiast focused on secure cloud-native applications, CI/CD 
 
 ## 🐍 Contribution Snake
 
-![Contribution Snake](https://raw.githubusercontent.com/pallavimahajan369/pallavimahajan369/output/github-contribution-grid-snake.svg)
+
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/pallavimahajan369/pallavimahajan369/output/pacman-contribution-graph.svg)
 
 </div>
