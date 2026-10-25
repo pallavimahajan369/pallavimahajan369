@@ -1,19 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1A102B,50:5B21B6,100:8B5CF6&text=PALLAVI%20MAHAJAN&fontColor=FFFFFF&fontSize=36&fontAlignY=45&desc=CLOUD%20%7C%20DEVSECOPS%20%7C%20CYBERSECURITY&descAlignY=72&descSize=14" width="100%" alt="Purple Cloud and DevSecOps banner"/>
-
-</div>
-
-<div align="center">
-
 # 🛡️ Pallavi Mahajan
 
 ### Cloud • DevSecOps • Cybersecurity
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=39FF88&center=true&vCenter=true&width=500&lines=Secure+by+Design;Automate+%E2%80%A2+Monitor+%E2%80%A2+Protect;Building+Cloud+Security+Projects" alt="Animated headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Secure+by+Design;Automate+%E2%80%A2+Monitor+%E2%80%A2+Protect;Building+Cloud+Security+Projects" alt="Animated headline" />
 
-[GitHub](https://github.com/pallavimahajan369) • [LinkedIn](https://www.linkedin.com/in/pallavi-mahajan-84321225a/)
+[![GitHub](https://img.shields.io/badge/GitHub-18141F?style=for-the-badge&logo=github&logoColor=C4B5FD)](https://github.com/pallavimahajan369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18141F?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/pallavi-mahajan-84321225a/)
 
 </div>
 
@@ -21,59 +16,67 @@
 
 ### 👩‍💻 About Me
 
-Cloud & DevSecOps enthusiast focused on secure cloud-native applications, CI/CD automation, container security, and monitoring.
+Cloud & DevSecOps enthusiast focused on secure cloud-native applications, CI/CD automation, container security, GitOps, and monitoring.
+
+- ☁️ Exploring cloud infrastructure and automation with AWS and Terraform.
+- 🛡️ Practicing container security, vulnerability scanning, and secure development workflows.
+- 🚀 Building hands-on projects around DevSecOps and cloud-native security.
 
 ### 🧰 Tech Stack
 
-
-
-
 **☁️ Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Terraform](https://img.shields.io/badge/Terraform-232F3E?style=for-the-badge&logo=terraform&logoColor=844FBA)
+![AWS](https://img.shields.io/badge/AWS-211A2C?style=for-the-badge&logo=amazonaws&logoColor=A78BFA)
+![Linux](https://img.shields.io/badge/Linux-211A2C?style=for-the-badge&logo=linux&logoColor=C4B5FD)
+![Terraform](https://img.shields.io/badge/Terraform-211A2C?style=for-the-badge&logo=terraform&logoColor=A78BFA)
 
 **🐳 DevOps & GitOps**
 
-![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-232F3E?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-232F3E?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Argo CD](https://img.shields.io/badge/Argo_CD-232F3E?style=for-the-badge&logo=argo&logoColor=EF7B4D)
+![Docker](https://img.shields.io/badge/Docker-211A2C?style=for-the-badge&logo=docker&logoColor=A78BFA)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-211A2C?style=for-the-badge&logo=kubernetes&logoColor=C4B5FD)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-211A2C?style=for-the-badge&logo=githubactions&logoColor=A78BFA)
+![Argo CD](https://img.shields.io/badge/Argo_CD-211A2C?style=for-the-badge&logo=argo&logoColor=C4B5FD)
+![Git](https://img.shields.io/badge/Git-211A2C?style=for-the-badge&logo=git&logoColor=A78BFA)
 
 **🛡️ Security & Monitoring**
 
-![Trivy](https://img.shields.io/badge/Trivy-232F3E?style=for-the-badge&logo=aqua&logoColor=7C4DFF)
-![Prometheus](https://img.shields.io/badge/Prometheus-232F3E?style=for-the-badge&logo=prometheus&logoColor=E6522C)
-![Grafana](https://img.shields.io/badge/Grafana-232F3E?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=F05032)
+![Trivy](https://img.shields.io/badge/Trivy-211A2C?style=for-the-badge&logo=aqua&logoColor=C4B5FD)
+![Falco](https://img.shields.io/badge/Falco-211A2C?style=for-the-badge&logo=linux&logoColor=A78BFA)
+![Prometheus](https://img.shields.io/badge/Prometheus-211A2C?style=for-the-badge&logo=prometheus&logoColor=C4B5FD)
+![Grafana](https://img.shields.io/badge/Grafana-211A2C?style=for-the-badge&logo=grafana&logoColor=A78BFA)
 
+**💻 Programming**
 
+![Python](https://img.shields.io/badge/Python-211A2C?style=for-the-badge&logo=python&logoColor=C4B5FD)
+![Bash](https://img.shields.io/badge/Bash-211A2C?style=for-the-badge&logo=gnubash&logoColor=A78BFA)
 
-
+---
 
 ### 🚀 Featured Projects
 
 #### 🛡️ [TreatLens — Browser Security Extension](https://github.com/pallavimahajan369/ThreatLens_MadDoG)
-- Chrome extension focused on phishing detection, suspicious scripts, and privacy-aware scanning.
+
+A privacy-focused Chrome extension for identifying suspicious website behavior.
+
+- Detects phishing indicators and suspicious scripts.
+- Includes privacy-aware scanning and sensitive-data protection features.
 - Built with JavaScript and Chrome Extension APIs.
 
-#### ☁️ [CipherWatch  — DevSecOps Platform](https://github.com/pallavimahajan369/cipher-watch)
-- Container security scanning, CI/CD automation, GitOps deployment, and Kubernetes monitoring.
-- Technologies: Docker, Kubernetes, GitHub Actions, Argo CD, Trivy, Prometheus, Grafana, Falco.
- 
+#### ☁️ [CipherWatch — DevSecOps Platform](https://github.com/pallavimahajan369/cipher-watch)
+
+A hands-on project focused on container security and cloud-native deployment workflows.
+
+- CI/CD automation and container vulnerability scanning.
+- GitOps-based deployment with Kubernetes.
+- Monitoring and runtime security tooling.
+
+**Technologies:** Docker · Kubernetes · GitHub Actions · Argo CD · Trivy · Prometheus · Grafana · Falco
 
 ---
 
 <div align="center">
 
-`SECURE • AUTOMATE • MONITOR`
-
----
-
-
-
+### 💜 SECURE • AUTOMATE • MONITOR
 
 ![Pac-Man Contribution Graph](https://raw.githubusercontent.com/pallavimahajan369/pallavimahajan369/output/pacman-contribution-graph.svg)
 
